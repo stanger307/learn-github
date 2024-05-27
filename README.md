@@ -1,1 +1,10 @@
 [github.pdf](https://github.com/utku-guclu/learn-github/files/15455265/github.pdf)
+https://www.planview.com/resources/guide/agile-methodologies-a-beginners-guide/
+https://www.gnu.org/software/bash/manual/html_node/Redirections.html#Redirections
+https://devhints.io/bash
+https://man7.org/linux/man-pages/man1/grep.1.html
+https://unix.org/what_is_unix/history_timeline.html
+https://en.wikipedia.org/wiki/Vim_(text_editor)
+https://cheatography.com/jluis/cheat-sheets/bash-and-unix-commands/
+https://vim.rtorr.com/
+https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents
