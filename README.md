@@ -10,3 +10,6 @@
 8. [Vim Cheat Sheet](https://vim.rtorr.com/)(https://devhints.io/vim)
 9. [GNU Bash Manual](https://www.gnu.org/software/bash/manual/html_node/index.html#SEC_Contents)
 10. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+
+https://www.youtube.com/watch?v=t_4lLR6F_yk
+https://www.youtube.com/watch?v=4XpnKHJAok8
