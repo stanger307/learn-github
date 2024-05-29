@@ -1,4 +1,4 @@
-[github.pdf](https://github.com/utku-guclu/learn-github/files/15455265/github.pdf)
+[GITHUB CHEATSHEET](https://github.com/utku-guclu/learn-github/files/15455265/github.pdf)
 
 1. [Agile Methodologies: A Beginner's Guide](https://www.planview.com/resources/guide/agile-methodologies-a-beginners-guide/)
 2. [GNU Bash Redirections](https://www.gnu.org/software/bash/manual/html_node/Redirections.html#Redirections)
